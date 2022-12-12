@@ -2,6 +2,7 @@
 Tech Used
 Frontend: Angular.js
 BackEnd: ASP DOT NET CORE
+RDBMS: Mysql
 
 1.> Student data
 
